@@ -1,5 +1,3 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Hsiang-Wei" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
 
 **About me**
@@ -8,15 +6,7 @@
 
 - My Webpage [here](https://hsiangwei0903.github.io/)  
 
-#### Top Repositories
-
-
-<a href="https://github.com/hsiangwei0903/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/hsiangwei0903/hsiangwei0903.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+[![Hsiang-Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsiangwei0903)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
